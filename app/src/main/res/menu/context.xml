@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Large Picture"
+        android:id="@+id/LargePicture">
+    </item>
+
+    <item android:title="Website"
+        android:id="@+id/Website">
+    </item>
+
+    <item android:title="Dealers"
+        android:id="@+id/Dealers">
+    </item>
+
+</menu>
